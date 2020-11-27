@@ -158,7 +158,7 @@ CONTAINER ID        IMAGE                          COMMAND                  CREA
 
 ```bash
 FROM ubuntu:14.04
-MAINTAINER BoYiZhang  [ https://github.com/BoYiZhang  ]
+MAINTAINER TomMorant  [ https://github.com/TomMorant  ]
 # backup data source
 RUN mv /etc/apt/sources.list /etc/apt/sources.list.bak
 # Replace data source
